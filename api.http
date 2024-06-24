@@ -1,0 +1,1 @@
+POST http://localhost:3000/nextjs/api/events/1/revalidate
